@@ -1,0 +1,2 @@
+# n8n-Automate-Daily-Interview-Schedule-Delivery-from-Google-Calendar-to-Gmail
+This n8n workflow automatically fetches all interview events scheduled for today from a specified Google Calendar and sends a personalized email to each interviewer. The email contains a formatted HTML table listing their interview details, including meeting times, Google Meet links, and attendees with their response status.
