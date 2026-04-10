@@ -64,7 +64,7 @@ This workflow automatically fetches all interview events scheduled for the curre
    - `calendarId`: Enter your calendar email or ID.
    - `recipientEmail`: The email address where the report should be sent.
    - `reportTitle`: (Optional) Change the header of the email.
-4. **Timezone Check:** Ensure your n8n instance timezone matches your local time for accurate scheduling.
+4. **Timezone Check:** Ensure your [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi) timezone matches your local time for accurate scheduling.
 5. **Test & Enable:** Run the workflow manually once to verify the email looks correct, then toggle to **Active**.
 
 ---
