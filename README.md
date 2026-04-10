@@ -8,7 +8,7 @@ This workflow automatically fetches all interview events scheduled for the curre
 
 ## ⚡ Quick Implementation Steps
 
-- Import the workflow JSON into your n8n instance.
+- Import the workflow JSON into your [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi).
 - Connect your **Google Calendar** and **Gmail** credentials.
 - Open the **Set Config** node to define your Calendar ID and Recipient Email.
 - Activate the workflow to start receiving daily summaries at your preferred time.
@@ -27,7 +27,7 @@ This workflow automatically fetches all interview events scheduled for the curre
 
 | Tool                | Purpose                                          |
 | :------------------ | :----------------------------------------------- |
-| **n8n Instance**    | To run and schedule the daily automation         |
+| **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)**    | To run and schedule the daily automation         |
 | **Google Calendar** | The source of truth for all scheduled interviews |
 | **Gmail Account**   | To send the formatted schedule via email         |
 | **Google OAuth2**   | Required credentials for Google service access   |
